@@ -1,0 +1,39 @@
+[0.008s] Invoking command in '/home/ppha/robotlab_ws/build/articubot_one': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ppha/robotlab_ws/src/articubot_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ppha/robotlab_ws/install/articubot_one
+[0.018s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.108s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.114s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.162s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.166s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.166s] -- Added test 'lint_cmake' to check CMake code style
+[0.167s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.169s] -- Added test 'xmllint' to check XML markup files
+[0.169s] -- Configuring done
+[0.171s] -- Generating done
+[0.172s] -- Build files have been written to: /home/ppha/robotlab_ws/build/articubot_one
+[0.175s] Invoked command in '/home/ppha/robotlab_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ppha/robotlab_ws/src/articubot_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ppha/robotlab_ws/install/articubot_one
+[0.176s] Invoking command in '/home/ppha/robotlab_ws/build/articubot_one': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ppha/robotlab_ws/build/articubot_one -- -j16 -l16
+[0.204s] Invoked command in '/home/ppha/robotlab_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ppha/robotlab_ws/build/articubot_one -- -j16 -l16
+[0.216s] Invoking command in '/home/ppha/robotlab_ws/build/articubot_one': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ppha/robotlab_ws/build/articubot_one
+[0.225s] -- Install configuration: ""
+[0.225s] -- Execute custom install script
+[0.226s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/config/empty.yaml
+[0.236s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/description/robot.urdf.xacro
+[0.246s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/description/robot_core.xacro
+[0.255s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/launch/rsp.launch.py
+[0.263s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/worlds/empty.world
+[0.274s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/ament_index/resource_index/package_run_dependencies/articubot_one
+[0.282s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/ament_index/resource_index/parent_prefix_path/articubot_one
+[0.290s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/environment/ament_prefix_path.sh
+[0.296s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/environment/ament_prefix_path.dsv
+[0.303s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/environment/path.sh
+[0.312s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/environment/path.dsv
+[0.320s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/local_setup.bash
+[0.329s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/local_setup.sh
+[0.336s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/local_setup.zsh
+[0.344s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/local_setup.dsv
+[0.351s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/package.dsv
+[0.359s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/ament_index/resource_index/packages/articubot_one
+[0.366s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/cmake/articubot_oneConfig.cmake
+[0.375s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/cmake/articubot_oneConfig-version.cmake
+[0.383s] -- Symlinking: /home/ppha/robotlab_ws/install/articubot_one/share/articubot_one/package.xml
+[0.394s] Invoked command in '/home/ppha/robotlab_ws/build/articubot_one' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ppha/robotlab_ws/build/articubot_one
